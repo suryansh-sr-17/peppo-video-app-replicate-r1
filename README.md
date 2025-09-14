@@ -20,9 +20,9 @@
 
 > **See the app in action!** Watch how easy it is to generate AI videos from text prompts.
 
-[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/suryansh-sr-17/peppo-video-app-replicate-r1/blob/master/demo/peppo_final_demo.mp4)
+[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://drive.google.com/file/d/1wlaSwVuDb72XqvBsyz5Op8X35fUhzl_L/view?usp=sharing)
 
-[🎬 **Click here to watch the full demo**](https://github.com/suryansh-sr-17/peppo-video-app-replicate-r1/blob/master/demo/peppo_final_demo.mp4)
+[🎬 **Click here to watch the full demo**](https://drive.google.com/file/d/1wlaSwVuDb72XqvBsyz5Op8X35fUhzl_L/view?usp=sharing)
 
 *See text-to-video generation with prompt optimization in action.*
 
