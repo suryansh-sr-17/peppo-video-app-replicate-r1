@@ -29,9 +29,24 @@
 
 ---
 
+## 🌟 Demo Screenshots
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a90189d9-cb1e-41ff-8a4d-7abf4f6d5600" alt="Screenshot 1" width="45%" />
+  <img src="https://github.com/user-attachments/assets/59e7d749-449d-4c8b-876c-a23c3f4a55e5" alt="Screenshot 2" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b856584c-17e0-4f4c-abb3-5a4e43ceb4e5" alt="Screenshot 3" width="45%" />
+  <img src="https://github.com/user-attachments/assets/64051411-fb4a-499f-aadd-e03919986cbc" alt="Screenshot 4" width="45%" />
+</p>
+
+---
+
 ## 🌐 Demo
 
-👉 Live App URL: [Coming Soon - Deploy to Vercel](https://vercel.com/new/clone?repository-url=https://github.com/suryansh-sr-17/peppo-video-app-replicate-r1)
+👉 Live App URL: [Functional Application URl - only accessible to officials (request for access)](https://peppo-video-app-new.vercel.app/)
 
 ---
 
