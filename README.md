@@ -48,7 +48,6 @@
 │   ├── main.py               # entrypoint
 │   └── user_feedback.txt     # For user feedback and development cycle
 ├── test_scripts/             # Development and testing utilities
-├── .kiro/                    # Kiro specs and documentation
 ├── .env.example              # Sample API Key configurations
 ├── DEPLOYMENT.md             # Vercel deployment guide
 └── README.md                 # Project documentation
