@@ -16,6 +16,19 @@
 
 ---
 
+## 🎬 Demo Video
+
+> **See the app in action!** Watch how easy it is to generate AI videos from text prompts.
+
+[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/suryansh-sr-17/peppo-video-app-replicate-r1/blob/master/demo/peppo_final_demo.mp4)
+
+[🎬 **Click here to watch the full demo**](https://github.com/suryansh-sr-17/peppo-video-app-replicate-r1/blob/master/demo/peppo_final_demo.mp4)
+
+*See text-to-video generation with prompt optimization in action.*
+
+
+---
+
 ## 🌐 Demo
 
 👉 Live App URL: [Coming Soon - Deploy to Vercel](https://vercel.com/new/clone?repository-url=https://github.com/suryansh-sr-17/peppo-video-app-replicate-r1)
